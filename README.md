@@ -6,8 +6,6 @@
 
 ## [Nicholas Grimmer](https://nicholasgrimmer.com)
 
-<h2 style="margin-bottom: 1000px;">dwadwa</h2>
-
 </div>
 
 ### ❯　💼 Profession: Full-Stack Developer

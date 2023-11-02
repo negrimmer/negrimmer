@@ -10,6 +10,6 @@
 
 ### Porfolio
 
-#### Profession:　Full-Stack Developer
+#### Profession: Full-Stack Developer
 
-#### Location:　![UK Flag](https://community.akamai.steamstatic.com/public/images/countryflags/gb.gif) UK
+#### Location: ![UK Flag](https://community.akamai.steamstatic.com/public/images/countryflags/gb.gif) UK

@@ -10,4 +10,4 @@
 
 ### ❯　💼 Profession: Full-Stack Developer
 
-### ❯　📍 Location: UK
+### ❯　📍 Location: UK :flag_united_kingdom:

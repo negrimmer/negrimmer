@@ -1,6 +1,6 @@
 <div align="center">
 
-![Logo](https://lh3.googleusercontent.com/a/ACg8ocKpclDXNmZu6mmt5hf1EKHJP33EEs6SisFcq1qUkTwQ8NR5=s96-c-rg-br100)
+![Logo](https://lh3.googleusercontent.com/a/ACg8ocKEQEQ1c4xoPVqDyRx_b5MtSIYRwtiGq1Ba01UrDDX4sNs=s83-c-mo)
 
 # [🪪 Nicholas Grimmer](https://grimmer.uk)
 

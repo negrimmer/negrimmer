@@ -1,6 +1,6 @@
 <div align="center">
 
-![Logo](https://avatars.githubusercontent.com/u/198730191)
+![Logo](https://raw.githubusercontent.com/negrimmer/negrimmer/refs/heads/master/NG_NP_GH.png)
 
 &nbsp;
 
